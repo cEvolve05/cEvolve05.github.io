@@ -1,0 +1,15 @@
+disabled     = true
+languageCode = "en"
+languageName = "English"
+weight       = 2
+title        = "cEvolve05's Blog"
+
+[params]
+  displayName = "English"
+  isoCode     = "en"
+  rtl         = false
+  dateFormat  = "2006-01-02"
+  # logo = "img/logo.png"
+  # secondaryLogo = "img/secondary-logo.png"
+  # description = "My awesome website"
+  # copyright = "Copy, _right?_ :thinking_face:"

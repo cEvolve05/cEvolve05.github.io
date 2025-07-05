@@ -1,0 +1,3 @@
+[googleAnalytics]
+  disable = false
+  respectDoNotTrack = true

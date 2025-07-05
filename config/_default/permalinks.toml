@@ -1,0 +1,5 @@
+[page]
+  posts = "/article/:year/:month/:day/:slugorcontentbasename/"
+
+[section]
+  posts = "/article/"
