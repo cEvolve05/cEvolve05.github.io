@@ -1,5 +1,2 @@
 [page]
-  posts = "/article/:year/:month/:day/:slugorcontentbasename/"
-
-[section]
-  posts = "/article/"
+  posts = "/post/:year/:month/:day/:slugorcontentbasename/"
